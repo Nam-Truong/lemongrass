@@ -1,0 +1,317 @@
+{
+  "categories": [
+    {
+      "name": "Entree",
+      "items": [
+        { "id": 1, "name": "Chicken Sweet Corn Soup", "price": 4.5 },
+        { "id": 2, "name": "Satay Chicken Skewers (3pc)", "price": 8 },
+        { "id": 3, "name": "Chicken Spring roll", "price": 2.5 },
+        { "id": 4, "name": "Seafood Spring roll (6pc)", "price": 8 },
+        { "id": 5, "name": "Veggie Spring roll", "price": 2.5 },
+        {
+          "id": 6,
+          "name": "Cold roll (3pc)",
+          "price": 7,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Veggie Only", "price": 0 }
+          ]
+        },
+        { "id": 7, "name": "Pork Dimsim", "price": 2.5 },
+        {
+          "id": 8,
+          "name": "Steam Bun (3pc)",
+          "price": 10,
+          "proteinChoices": [
+            { "name": "Crackling Pork", "price": 0 },
+            { "name": "Lemongrass Chicken", "price": 0 },
+            { "name": "Lemongrass Tofu", "price": 0 }
+          ]
+        },
+        { "id": 9, "name": "Prawn Dumpling (4pc)", "price": 7 },
+        { "id": 10, "name": "Crispy Wonton (6pc)", "price": 6.5 },
+        { "id": 11, "name": "Chicken Spring roll Pack Of 3", "price": 6 },
+        { "id": 12, "name": "Prawn Chip", "price": 2 },
+        { "id": 13, "name": "Veggie Spring roll Pack Of 3", "price": 6 }
+      ],
+      "color": "#e8dff5"
+    },
+    {
+      "name": "Banhmi",
+      "items": [
+        { "id": 14, "name": "Pork roll", "price": 8 },
+        { "id": 15, "name": "Chicken roll", "price": 8 },
+        { "id": 16, "name": "Tofu roll", "price": 7.5 },
+        { "id": 17, "name": "Beef roll", "price": 9 },
+        { "id": 18, "name": "Satay Chicken roll", "price": 8 },
+        { "id": 19, "name": "Salad roll", "price": 6 },
+        { "id": 20, "name": "Combination roll", "price": 8 },
+        { "id": 21, "name": "Soft Drink Can 375", "price": 2.5 },
+        { "id": 22, "name": "Add On Deal 1", "price": 4 },
+        { "id": 23, "name": "Add On Deal 2", "price": 7 },
+        { "id": 24, "name": "Extra meat", "price": 3 }
+      ],
+      "color": "#f9d196"
+    },
+    {
+      "name": "Salad Bowl",
+      "items": [
+        { "id": 25, "name": "Pork Salad Bowl", "price": 13 },
+        { "id": 26, "name": "Chicken Salad Bowl", "price": 13 },
+        { "id": 27, "name": "Beef Salad Bowl", "price": 14 },
+        { "id": 28, "name": "Tofu Salad Bowl", "price": 12 },
+        { "id": 29, "name": "Satay Chicken Salad Bowl", "price": 13 },
+        { "id": 30, "name": "Spring roll Salad Bowl", "price": 12 },
+        { "id": 31, "name": "Combination Salad Bowl", "price": 13 },
+        { "id": 32, "name": "Extra meat", "price": 3 }
+      ],
+      "color": "#adf7b6"
+    },
+    {
+      "name": "Noodle Soup",
+      "items": [
+        { "id": 33, "name": "Beef Pho", "price": 14.5 },
+        { "id": 34, "name": "Chicken Pho", "price": 14 },
+        { "id": 35, "name": "Combo Pho", "price": 16.5 },
+        { "id": 36, "name": "Tomyum", "price": 14.5 },
+        { "id": 37, "name": "Laksa", "price": 14.5 },
+        { "id": 38, "name": "Seafood Only", "price": 2 },
+        { "id": 39, "name": "Wonton In Beef Noodle Soup", "price": 14 },
+        { "id": 40, "name": "Extra meat", "price": 3 }
+      ],
+      "color": " #ccdbfd"
+    },
+    {
+      "name": "Rice Dishes",
+      "items": [
+        { "id": 41, "name": "Combo Fried Rice", "price": 12.5 },
+        { "id": 42, "name": "Thai Fried Rice", "price": 12 },
+        { "id": 43, "name": "Chicken Fried Rice", "price": 12 },
+        { "id": 44, "name": "Pork Fried Rice", "price": 12 },
+        { "id": 45, "name": "Beef Fried rice", "price": 12 },
+        { "id": 46, "name": "Veggie Fried Rice with Tofu", "price": 11 },
+        { "id": 47, "name": "Eggs Fried Rice", "price": 8 },
+        {
+          "id": 48,
+          "name": "Steam rice Bowls",
+          "price": 12,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        },
+        { "id": 49, "name": "Cup Of Steam rice", "price": 2 },
+        { "id": 50, "name": "Extra meat", "price": 3 }
+      ],
+      "color": "#ffee93"
+    },
+    {
+      "name": "Stir Fried Noodle",
+      "items": [
+        {
+          "id": 51,
+          "name": "Char Kway Teow",
+          "price": 13.5,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "Mee Goreng",
+          "price": 13.5,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Singapore Noodle",
+          "price": 13.5,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        },
+        {
+          "id": 54,
+          "name": "Padthai",
+          "price": 13.5,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        },
+        {
+          "id": 55,
+          "name": "Satay Hokkien Noodle",
+          "price": 13.5,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        },
+        { "id": 56, "name": "Beef Or Seafood Only", "price": 2 },
+        {
+          "id": 57,
+          "name": "Japanese Udon Noodle",
+          "price": 13.5,
+          "proteinChoices": [
+            { "name": "Pork", "price": 0 },
+            { "name": "Chicken", "price": 0 },
+            { "name": "Tofu", "price": 0 },
+            { "name": "Combination", "price": 0.5 }
+          ]
+        }
+      ],
+      "color": "#ffa69e"
+    },
+    {
+      "name": "Stir Fried Veggie",
+      "items": [
+        {
+          "id": 58,
+          "name": "Chicken Veggies",
+          "price": 12.5,
+          "flavourChoices": [
+            { "name": "Basil Cashew Nut", "price": 0 },
+            { "name": "Lemongrass Sauce", "price": 0 },
+            { "name": "Satay Peanut", "price": 0 },
+            { "name": "Oyster Garlic", "price": 0 },
+            { "name": "Garlic Only", "price": 0 }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Pork Veggies",
+          "price": 12.5,
+          "flavourChoices": [
+            { "name": "Basil Cashew Nut", "price": 0 },
+            { "name": "Lemongrass Sauce", "price": 0 },
+            { "name": "Satay Peanut", "price": 0 },
+            { "name": "Oyster Garlic", "price": 0 },
+            { "name": "Garlic Only", "price": 0 }
+          ]
+        },
+        {
+          "id": 60,
+          "name": "Tofu Veggies",
+          "price": 12.5,
+          "flavourChoices": [
+            { "name": "Basil Cashew Nut", "price": 0 },
+            { "name": "Lemongrass Sauce", "price": 0 },
+            { "name": "Satay Peanut", "price": 0 },
+            { "name": "Oyster Garlic", "price": 0 },
+            { "name": "Garlic Only", "price": 0 }
+          ]
+        },
+        {
+          "id": 61,
+          "name": "Beef Veggies",
+          "price": 14.5,
+          "flavourChoices": [
+            { "name": "Basil Cashew Nut", "price": 0 },
+            { "name": "Lemongrass Sauce", "price": 0 },
+            { "name": "Satay Peanut", "price": 0 },
+            { "name": "Oyster Garlic", "price": 0 },
+            { "name": "Garlic Only", "price": 0 }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Seafood Veggies",
+          "price": 14.5,
+          "flavourChoices": [
+            { "name": "Basil Cashew Nut", "price": 0 },
+            { "name": "Lemongrass Sauce", "price": 0 },
+            { "name": "Satay Peanut", "price": 0 },
+            { "name": "Oyster Garlic", "price": 0 },
+            { "name": "Garlic Only", "price": 0 }
+          ]
+        },
+        {
+          "id": 63,
+          "name": "Mix Seasonal Veggie Only",
+          "price": 12,
+          "flavourChoices": [
+            { "name": "Basil Cashew Nut", "price": 0 },
+            { "name": "Lemongrass Sauce", "price": 0 },
+            { "name": "Satay Peanut", "price": 0 },
+            { "name": "Oyster Garlic", "price": 0 },
+            { "name": "Garlic Only", "price": 0 }
+          ]
+        }
+      ],
+      "color": "#a5ffd6"
+    },
+    {
+      "name": "Drink",
+      "items": [
+        { "id": 64, "name": "Iced Coffee", "price": 4 },
+        { "id": 65, "name": "Young Coconut Water", "price": 4 },
+        { "id": 66, "name": "Soft Drink", "price": 2.5 },
+        { "id": 67, "name": "Roasted Coconut Can 520ml", "price": 5 },
+        { "id": 68, "name": "Water", "price": 2.5 },
+        { "id": 69, "name": "Lipton Tea", "price": 4.5 },
+        { "id": 70, "name": "Bundaberg", "price": 4 },
+        { "id": 71, "name": "Redbull", "price": 4 },
+        { "id": 72, "name": "Maximus", "price": 5 },
+        { "id": 73, "name": "Lemon Lime And Bitter", "price": 3.8 },
+        { "id": 74, "name": "Hot Tea For Share (pot)", "price": 4.5 },
+        { "id": 75, "name": "Riviera", "price": 3.8 },
+        { "id": 76, "name": "V Energy Drink 25ml", "price": 3.5 },
+        { "id": 77, "name": "V Energy Drink 5ml", "price": 5 }
+      ],
+      "color": "#ccdbfd"
+    },
+    {
+      "name": "Batter Dishes",
+      "items": [
+        { "id": 78, "name": "Honey", "price": 13 },
+        { "id": 79, "name": "Sweet And Sour Sauce", "price": 13 },
+        { "id": 80, "name": "Lemon Sauce", "price": 13 },
+        { "id": 81, "name": "Salt And Pepper Squid", "price": 13 },
+        { "id": 82, "name": "Salt And Pepper Chicken", "price": 13 },
+        { "id": 83, "name": "Salt And Pepper Pork", "price": 13 },
+        { "id": 84, "name": "Salt And Pepper Tofu", "price": 12 }
+      ],
+      "color": " #dfb2f4"
+    },
+    {
+      "name": "Other",
+      "items": [
+        { "id": 85, "name": "Egg Flan", "price": 6.5 },
+        { "id": 86, "name": "Egg Flan (Take Away)", "price": 6.5 },
+        { "id": 87, "name": "Traditional Steam Bun", "price": 5 }
+      ],
+      "color": "#ffc09f"
+    }
+  ],
+  "popularNotes": [
+    "no chilli",
+    "no onion",
+    "extra spicy",
+    "well done",
+    "no shallot"
+  ],
+  "businessInfo": {
+    "businessName": "Lemongrass",
+    "ABN": "123456"
+  }
+}
