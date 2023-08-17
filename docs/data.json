@@ -303,10 +303,25 @@
     {
       "name": "Batter Dishes",
       "items": [
-        { "id": 78, "name": "Honey Sauce", "price": 13 },
-        { "id": 79, "name": "Sweet And Sour Sauce", "price": 13 },
-        { "id": 80, "name": "Lemon Sauce", "price": 13 },
-        { "id": 81, "name": "Salt And Pepper Squid", "price": 13 },
+        { "id": 78, "name": "Honey Sauce", "price": 13,
+          "proteinChoices": [
+            { "name": "Chicken", "price": 0 },
+            { "name": "Pork", "price": 0 }
+          ] 
+        },
+        { "id": 79, "name": "Sweet And Sour Sauce", "price": 13,
+          "proteinChoices": [
+            { "name": "Chicken", "price": 0 },
+            { "name": "Pork", "price": 0 }
+          ]  
+        },
+        { "id": 80, "name": "Lemon Sauce", "price": 13,
+          "proteinChoices": [
+            { "name": "Chicken", "price": 0 },
+            { "name": "Pork", "price": 0 }
+          ]  
+        },
+        { "id": 81, "name": "Salt And Pepper Squid", "price": 15 },
         { "id": 82, "name": "Salt And Pepper Chicken", "price": 13 },
         { "id": 83, "name": "Salt And Pepper Pork", "price": 13 },
         { "id": 84, "name": "Salt And Pepper Tofu", "price": 12 }
