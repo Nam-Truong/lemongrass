@@ -355,10 +355,10 @@
     "no chilli",
     "no coriander",
     "no Majo",
-    "extra chilli",
-    "extra coriander",
     "no peanut",
-    "no shallot"
+    "no shallot",
+    "extra chilli",
+    "extra coriander"
   ],
   "businessInfo": {
     "businessName": "Lemongrass Vietnamese",
