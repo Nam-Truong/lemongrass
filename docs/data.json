@@ -34,7 +34,7 @@
         { "id": 10, "name": "Pork dimsim", "price": 2.5 },
         { "id": 11, "name": "4 pcs Prawn dumpling", "price": 7 },
         { "id": 12, "name": "6 pcs Crispy wontons", "price": 6 },
-        { "id": 13, "name": "Prawn chip", "price": 2 }
+        { "id": 13, "name": "Seafood spring roll 6pcs", "price": 8 }
       ],
       "color": "#e8dff5"
     },
@@ -103,7 +103,7 @@
             { "name": "Satay chicken", "price": 1 },
             { "name": "Lemongrass Tofu", "price": 0 },
             { "name": "Lemongrass Beef", "price": 2 },
-            { "name": "Combination", "price": 0.5 }
+            { "name": "Combination", "price": 1 }
           ]
         },
         { "id": 49, "name": "Cup Of Steam rice", "price": 2 },
@@ -122,6 +122,7 @@
             { "name": "Pork", "price": 0 },
             { "name": "Chicken", "price": 0 },
             { "name": "Tofu", "price": 0 },
+            { "name": "veggie only", "price": 0 },
             { "name": "Beef", "price": 2 },
             { "name": "Seafood inc Squid,Prawn,fishcake ", "price": 2 },
             { "name": "Combination", "price": 0.5 }
@@ -135,6 +136,7 @@
             { "name": "Pork", "price": 0 },
             { "name": "Chicken", "price": 0 },
             { "name": "Tofu", "price": 0 },
+            { "name": "veggie only", "price": 0 },
             { "name": "Beef", "price": 2 },
             { "name": "Seafood inc Squid,Prawn,fishcake ", "price": 2 },
             { "name": "Combination", "price": 0.5 }
@@ -148,6 +150,7 @@
             { "name": "Pork", "price": 0 },
             { "name": "Chicken", "price": 0 },
             { "name": "Tofu", "price": 0 },
+            { "name": "veggie only", "price": 0 },
             { "name": "Beef", "price": 2 },
             { "name": "Seafood inc Squid,Prawn,fishcake ", "price": 2 },
             { "name": "Combination", "price": 0.5 }
@@ -161,6 +164,7 @@
             { "name": "Pork", "price": 0 },
             { "name": "Chicken", "price": 0 },
             { "name": "Tofu", "price": 0 },
+            { "name": "veggie only", "price": 0 },
             { "name": "Beef", "price": 2 },
             { "name": "Seafood inc Squid,Prawn,fishcake ", "price": 2 },
             { "name": "Combination", "price": 0.5 }
@@ -174,6 +178,7 @@
             { "name": "Pork", "price": 0 },
             { "name": "Chicken", "price": 0 },
             { "name": "Tofu", "price": 0 },
+            { "name": "veggie only", "price": 0 },
             { "name": "Beef", "price": 2 },
             { "name": "Seafood inc Squid,Prawn,fishcake ", "price": 2 },
             { "name": "Combination", "price": 0.5 }
@@ -188,6 +193,7 @@
             { "name": "Pork", "price": 0 },
             { "name": "Chicken", "price": 0 },
             { "name": "Tofu", "price": 0 },
+            { "name": "veggie only", "price": 0 },
             { "name": "Beef", "price": 2 },
             { "name": "Seafood inc Squid,Prawn,fishcake ", "price": 2 },
             { "name": "Combination", "price": 0.5 }
